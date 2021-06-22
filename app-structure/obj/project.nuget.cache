@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5rcqolonb7jD+BkXbGDL+T69drQwcej54eSj19aXoILzdFPd8Bl3RDOoYQqn+6fjOF3mF3+z9c92GNUUjcI+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bmircetic\\nelnet-projects\\app-structure\\app-structure\\app-structure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmircetic\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\bmircetic\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\bmircetic\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
